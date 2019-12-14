@@ -10,72 +10,70 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Midatlantic Dreamin' 2020"
+email: "support@albrechtevents.com  "
+description: "(formerly Phillyforce) The 8th Annual Community Salesforce Conference for the Delaware Valley and beyond"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://tet3.github.io/"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-154567667-1"
+googleAnalyticsSiteUrl: "tet3.github.io"
+siteVerification: "WaZ2mvNZ8MO6xQkWW4qwZQBOl6mZxqzJaobq2oj4GE"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "Phillyforce"
+organizerAlternateName: "Philadelphia Salesforce Trailblazer User Groups"
+organizerDescription: "User groups that meet around the Philadelphia area to learn about Salesforce together."
+organizerEmail: "organizers@phillyforce.com"
+organizerLogo: "img/about-section/phillyforce-logo-sm.png"
+organizerLink: "https://tet3.github.io/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "event, salesforce, force.com, midatlantic dreaming, trailblazer, user conference"
+twitterAccount: "@phillyforce"
+socialImageSrcGooglePlus: "img/about-section/phillyforce-logo-sm.png"
+socialImageSrcTwitter: "img/about-section/phillyforce-logo-sm.png"
+socialImageSrcFacebook: "img/about-section/phillyforce-logo-sm.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://www.getfeedback.com/r/aLU5uRyQ/"
+c4sponsorsUrl: "/assets/PhillyForce_Sponsorship_Packages_2019.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroImage: "24364197672_60eac16b99_b.jpg"
+heroTitle: "Midatlantic' Dreamin' <typeout>"
+eventDate: "May 6, 2020"
+typeoutTextValues: '"2020"'
+typeoutFallback: "2020"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://www.getfeedback.com/r/aLU5uRyQ/", text: "Submit a session"}
+ - {permalink: "/#tickets", text: "Register"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Midatlantic Dreamin'"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Keynote and breakout presentations from leading Salesforce thinkers, and admins and developers working on the platform" }
+ - {title: "Networking", image: "workshop.jpg", text: "Ample time to meet and get to know sponsors, speakers and attendees." }
+ - {title: "Demo Jam", image: "hackathon.jpg", text: "Lightning-quick demos from AppExchange partners and other sponsors" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Salesforce technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
@@ -90,34 +88,34 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "World Café Live"
+eventLocationLink: "https://worldcafelive.com"
+eventStreetAddress: "3025 Walnut St"
+eventAddressLocality: "Philadelphia"
+eventAddressLocalityRegion: "PA"
+eventPostalCode: "19104"
+eventAddressCountry: "United States"
+eventStartTime: "2020-05-06T08:15"
+eventDoorTime: "08:15"
+eventEndTime: "2020-05-06T19:30"
+eventPlaceCoordinates: "39.952186, -75.185005"
+mapCenterCoordinates: "39.952186, -75.185005"
+mapMobileCenterCoordinates: "39.952186, -75.185005"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
+venueBigImage: "PHL-Down-02-web-1024x684.jpg"
+venueSmallImage1: "ULPhillyHorizontal2-Copy-1024x746.jpg"
+venueSmallImage2: "wcl-mezzanine.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "World Café Live"
+venueFeatures: ["Spaces for keynotes & breakouts", "Top-quality audio & presentation facilities", "Located conveniently in University City near 30th Street Station"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "phillyforce19"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledefavoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -136,26 +134,26 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  price: "38"
+  priceCurrency: "USD"
   ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ribbon: "-15%"
+  buyButtonLink: "https://www.eventbrite.com/e/7th-annual-phillyforce-conference-salesforce-trailblazer-community-group-registration-52224074613#"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  validFrom: "2020-02-28T10:00"
+  validThrough: "2020-03-15T23:59"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  disabled: true
+ -
+  name: "Standard"
+  price: "70"
+  priceCurrency: "USD"
+  ticketsNumber: "100"
+  buyButtonLink: "https://www.eventbrite.com/e/7th-annual-phillyforce-conference-salesforce-trailblazer-community-group-registration-52224074613#"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
+  validFrom: "2020-03-15T00:00"
   validThrough: "2014-10-23T23:59"
   disabled: true
  -
@@ -163,7 +161,7 @@ ticketsOffers:
   price: "200"
   priceCurrency: "UAH"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.eventbrite.com/e/7th-annual-phillyforce-conference-salesforce-trailblazer-community-group-registration-52224074613#"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -174,9 +172,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/phillyforce", icon: "twitter"}
+ - {link: "https://facebook.com/PhillyforceDUG", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -213,8 +210,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "39.952186, -75.185005"
+logisticsMapMobileCenterCoordinates: "39.952186, -75.185005"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block

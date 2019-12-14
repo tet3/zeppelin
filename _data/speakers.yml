@@ -1,3 +1,14 @@
+-
+  id: 1
+  name: "Peter"
+  surname: "Coffee"
+  company: "Salesforce"
+  title: "VP for Strategic Research"
+  bio: "Peter Coffee is an amazing speaker and all the Dreamin's want him, but we actually got him!"
+  thumbnailUrl: PeterCoffee.jfif
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/petercoffee"}
 - 
   id: 3
   name: "Dawid"
