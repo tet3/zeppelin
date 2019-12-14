@@ -157,13 +157,13 @@ ticketsOffers:
   validThrough: "2014-10-23T23:59"
   disabled: true
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  name: "Student or Nonprofit"
+  price: "38"
+  priceCurrency: "USD"
   ticketsNumber: "50"
   buyButtonLink: "https://www.eventbrite.com/e/7th-annual-phillyforce-conference-salesforce-trailblazer-community-group-registration-52224074613#"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  additionalInfo: "Please contact us for a discount code to apply at checkout - include proof of student status or employment by a nonprofit."
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
